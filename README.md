@@ -6,7 +6,7 @@ This project provides an interactive **Power BI dashboard** analyzing crop produ
 
 ## 📊 Dashboard Preview
 
-![Crop Production Dashboard](https://raw.githubusercontent.com/lakshmi1202/crop_production_analysis/main/Crop%20Production%20Analysis%20in%20India.jpg)
+![Crop Production Dashboard](https://github.com/lakshmi1202/crop_production_analysis/blob/main/Crop%20Production%20Analysis.jpg)
 
 ---
 
